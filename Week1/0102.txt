@@ -1,7 +1,0 @@
-(morning)
-(afternoon)
-- check event listner passing event using arrow and regular function? same
-- check interface whether needed to be strict? yes
-- axios generic function
-- acheive sibling communication in react (parent component, context API)
-- When handlers are called in the child components, they trigger the state update functions in the parent component. The state is updated in the parent component even though the handlers are executed in the child components.
