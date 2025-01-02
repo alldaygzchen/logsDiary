@@ -1,0 +1,17 @@
+leetcode (morning)
+- group or count frequencies
+	- group anagrams(read)
+	- isomorphic strings(read)
+	- word pattern(read)
+	- top k frequent elements(read)
+	- subarray sum equals k (read)
+
+typescript (afternoon)
+- webpack dev mode
+- webpack prod mode
+- install webpack + ts env
+- @type/xxxxx
+- ts libraries: class-transformer and class validator
+- when to use promise and async await
+
+react review (night)
